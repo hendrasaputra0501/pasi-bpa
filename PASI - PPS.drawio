@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T08:47:49.521Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CB9PFTu6r6YwAmM-1XbM" version="24.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-27T08:48:12.815Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="a4iew-U7tYtLSSMT0Zex" version="24.2.0" type="github" pages="7">
   <diagram name="Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1714" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -452,7 +452,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="Ordering" id="ewW-mLXgtcHNg6mIJWQR">
-    <mxGraphModel dx="1114" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="743" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="LZab7zWppRBkSROAJWzT-0" />
         <mxCell id="LZab7zWppRBkSROAJWzT-1" parent="LZab7zWppRBkSROAJWzT-0" />
@@ -595,12 +595,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ID3lGAtNbBix-N0HnKA_-0" value="Approval PO" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="LZab7zWppRBkSROAJWzT-12" vertex="1">
-          <mxGeometry x="828" y="235" width="70" height="37" as="geometry" />
-        </mxCell>
-        <mxCell id="ID3lGAtNbBix-N0HnKA_-1" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;PO&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="LZab7zWppRBkSROAJWzT-12" vertex="1">
-          <mxGeometry x="888" y="244" width="20" height="21" as="geometry" />
-        </mxCell>
         <mxCell id="ID3lGAtNbBix-N0HnKA_-4" value="Input Master Part" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;strokeColor=#9673a6;verticalAlign=middle;fontColor=default;fillColor=#e1d5e7;" parent="LZab7zWppRBkSROAJWzT-12" vertex="1">
           <mxGeometry x="55" y="179" width="70" height="37" as="geometry" />
         </mxCell>
@@ -732,7 +726,7 @@
         <mxCell id="LZab7zWppRBkSROAJWzT-41" value="PASI Procurement" style="swimlane;html=1;startSize=20;horizontal=0;" parent="LZab7zWppRBkSROAJWzT-2" vertex="1">
           <mxGeometry y="590" width="990" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="ID3lGAtNbBix-N0HnKA_-20" value="Approval PO" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="LZab7zWppRBkSROAJWzT-41" vertex="1">
+        <mxCell id="ID3lGAtNbBix-N0HnKA_-20" value="Approval PO" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;strokeColor=#9673a6;verticalAlign=middle;fontColor=default;fillColor=#e1d5e7;" parent="LZab7zWppRBkSROAJWzT-41" vertex="1">
           <mxGeometry x="722" y="48" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="LZab7zWppRBkSROAJWzT-20" value="Send PO to Vendor" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="LZab7zWppRBkSROAJWzT-41" vertex="1">
@@ -744,6 +738,9 @@
             <mxPoint x="738" y="53.98000000000002" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ID3lGAtNbBix-N0HnKA_-1" value="&lt;font style=&quot;font-size: 9px;&quot;&gt;PO&lt;/font&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="LZab7zWppRBkSROAJWzT-41" vertex="1">
+          <mxGeometry x="780" y="73" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="sREEas9JUnIbprGlQSYq-0" value="Vendor" style="swimlane;html=1;startSize=20;horizontal=0;" parent="LZab7zWppRBkSROAJWzT-2" vertex="1">
           <mxGeometry y="730" width="990" height="110" as="geometry" />

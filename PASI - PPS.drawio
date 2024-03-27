@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T11:34:09.165Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Ke7Rmcfpg2MkTpNdfB_i" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-27T11:34:49.758Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Hb5efts4A-6Rag-NS4TX" version="24.2.0" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1591" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -869,7 +869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2. Receiving" id="qrAKqGUqpGENbbrTRkKW">
-    <mxGraphModel dx="928" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="655" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="4leRcj-vgABzX0mRtRA_-0" />
         <mxCell id="4leRcj-vgABzX0mRtRA_-1" parent="4leRcj-vgABzX0mRtRA_-0" />
@@ -982,9 +982,6 @@
         </mxCell>
         <mxCell id="3f_AJbkVURgbOAEz9HHN-8" value="&lt;b&gt;6&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="4leRcj-vgABzX0mRtRA_-41">
           <mxGeometry x="1018" y="54.5" width="30" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="29UQc7JbFCgrhGW8sW96-0" value="Direct to Forwarder?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="4leRcj-vgABzX0mRtRA_-41">
-          <mxGeometry x="617" y="39.5" width="72" height="62" as="geometry" />
         </mxCell>
         <mxCell id="4leRcj-vgABzX0mRtRA_-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;dashed=1;" parent="4leRcj-vgABzX0mRtRA_-2" target="4leRcj-vgABzX0mRtRA_-21" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1205,6 +1202,9 @@
               <mxPoint x="1028" y="110" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="29UQc7JbFCgrhGW8sW96-0" value="&lt;div&gt;Direct to&amp;nbsp;&lt;/div&gt;&lt;div&gt;Forwarder for&lt;/div&gt;&lt;div&gt;Export&amp;nbsp;&lt;/div&gt;&lt;div&gt;Sales?&lt;br&gt;&lt;/div&gt;" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="4leRcj-vgABzX0mRtRA_-30">
+          <mxGeometry x="328" y="25" width="82" height="75" as="geometry" />
         </mxCell>
         <mxCell id="FHFd0RB__cOG0ArdDacm-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" edge="1" parent="4leRcj-vgABzX0mRtRA_-2" source="4leRcj-vgABzX0mRtRA_-38" target="FHFd0RB__cOG0ArdDacm-0">
           <mxGeometry relative="1" as="geometry">

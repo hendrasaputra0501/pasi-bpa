@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T08:55:04.479Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JHtKY9SulPbHf44dJ012" version="24.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-27T08:55:28.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lIYShYCEgdEuV0kzJBMe" version="24.2.0" type="github" pages="7">
   <diagram name="Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1714" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -828,7 +828,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="2. Receiving Local" id="qrAKqGUqpGENbbrTRkKW">
+  <diagram name="2. Receiving" id="qrAKqGUqpGENbbrTRkKW">
     <mxGraphModel dx="1114" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="4leRcj-vgABzX0mRtRA_-0" />
@@ -1628,7 +1628,7 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram name="Delivery Local" id="d6Xk20PynXDtmUrLkWrX">
+  <diagram name="Delivery" id="d6Xk20PynXDtmUrLkWrX">
     <mxGraphModel dx="1114" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="COQ0Ke3TuU1KpEBv3Df9-0" />

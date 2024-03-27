@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T11:11:19.228Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CoWl1EiOVKBXr4nuL7uR" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-27T11:11:28.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="ecgD_mgNjgWSSZjfVBIr" version="24.2.0" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1591" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1248,7 +1248,7 @@
       <root>
         <mxCell id="Ge35F2F7UKr9i2X2-JDJ-0" />
         <mxCell id="Ge35F2F7UKr9i2X2-JDJ-1" parent="Ge35F2F7UKr9i2X2-JDJ-0" />
-        <mxCell id="Ge35F2F7UKr9i2X2-JDJ-2" value="3. Receiving Import" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="Ge35F2F7UKr9i2X2-JDJ-1">
+        <mxCell id="Ge35F2F7UKr9i2X2-JDJ-2" value="3. Receiving Purchase Import" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="Ge35F2F7UKr9i2X2-JDJ-1">
           <mxGeometry x="20" y="20" width="1210" height="1000" as="geometry" />
         </mxCell>
         <mxCell id="Ge35F2F7UKr9i2X2-JDJ-3" value="Customer" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="Ge35F2F7UKr9i2X2-JDJ-2">

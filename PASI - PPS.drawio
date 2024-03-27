@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T10:47:27.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="DCpGvJfthzT89BnBeXMN" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-27T10:47:42.531Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="tvnReEOfkXxDxH6yNnP6" version="24.2.0" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1591" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -869,7 +869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2. Receiving" id="qrAKqGUqpGENbbrTRkKW">
-    <mxGraphModel dx="928" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="518" dy="283" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="4leRcj-vgABzX0mRtRA_-0" />
         <mxCell id="4leRcj-vgABzX0mRtRA_-1" parent="4leRcj-vgABzX0mRtRA_-0" />
@@ -900,8 +900,8 @@
         <mxCell id="4leRcj-vgABzX0mRtRA_-31" value="&lt;div&gt;Parts&lt;/div&gt;&lt;div&gt;Received&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="4leRcj-vgABzX0mRtRA_-30" vertex="1">
           <mxGeometry x="588" y="37.5" width="70" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="4leRcj-vgABzX0mRtRA_-32" value="Quarantine" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="4leRcj-vgABzX0mRtRA_-30" vertex="1">
-          <mxGeometry x="795" y="104" width="70" height="37" as="geometry" />
+        <mxCell id="4leRcj-vgABzX0mRtRA_-32" value="Move&lt;div&gt;Quarantine&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="4leRcj-vgABzX0mRtRA_-30" vertex="1">
+          <mxGeometry x="772" y="104" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="4leRcj-vgABzX0mRtRA_-36" value="&lt;div&gt;Force Receive DO Vendor&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="4leRcj-vgABzX0mRtRA_-30" vertex="1">
           <mxGeometry x="436" y="36" width="70" height="37" as="geometry" />

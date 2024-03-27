@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T09:28:17.492Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="D1KZp3pVW7wtMD7HkEwj" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-27T09:28:27.934Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="7XVd40pVw8zT8ju4Vt7J" version="24.2.0" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="969" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -870,7 +870,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2. Receiving" id="qrAKqGUqpGENbbrTRkKW">
-    <mxGraphModel dx="1013" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="4leRcj-vgABzX0mRtRA_-0" />
         <mxCell id="4leRcj-vgABzX0mRtRA_-1" parent="4leRcj-vgABzX0mRtRA_-0" />
@@ -1016,8 +1016,7 @@
             <mxPoint x="365" y="439" as="sourcePoint" />
             <mxPoint x="110.030303030303" y="870" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="65" y="500" />
-              <mxPoint x="110" y="500" />
+              <mxPoint x="65" y="889" />
             </Array>
           </mxGeometry>
         </mxCell>

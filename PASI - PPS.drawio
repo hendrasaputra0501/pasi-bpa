@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T08:15:18.955Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="OPeAOyTcNJRfljD4Y8aY" version="24.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-27T08:15:50.473Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CbFVPbVdpLq6KMCTpt1O" version="24.2.0" type="github" pages="7">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="543" dy="297" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="969" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -183,7 +183,7 @@
           <mxGeometry y="820" width="1210" height="150" as="geometry" />
         </mxCell>
         <mxCell id="OChGtl6JTXPUs5rAQgMA-39" value="Order Received&lt;div&gt;Approval by Portal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="OChGtl6JTXPUs5rAQgMA-38" vertex="1">
-          <mxGeometry x="205" y="50" width="70" height="37" as="geometry" />
+          <mxGeometry x="140" y="43" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="OChGtl6JTXPUs5rAQgMA-69" value="Delivery Order" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="OChGtl6JTXPUs5rAQgMA-38" vertex="1">
           <mxGeometry x="320" y="80" width="70" height="37" as="geometry" />
@@ -241,7 +241,7 @@
             <mxPoint x="430" y="710" as="targetPoint" />
             <Array as="points">
               <mxPoint x="495" y="450" />
-              <mxPoint x="240" y="450" />
+              <mxPoint x="170" y="450" />
             </Array>
           </mxGeometry>
         </mxCell>

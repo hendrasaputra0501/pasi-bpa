@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T08:18:01.592Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="e_iFRE6Rj9z2bXtZedy6" version="24.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-27T08:18:20.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="sqNhGu25CHEJBiZZ6BTr" version="24.2.0" type="github" pages="7">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="1061" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="474" dy="259" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -65,8 +65,8 @@
             <mxPoint x="250" y="79" as="sourcePoint" />
             <mxPoint x="290" y="79" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="68" />
-              <mxPoint x="330" y="35" />
+              <mxPoint x="340" y="68" />
+              <mxPoint x="340" y="35" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -78,9 +78,14 @@
             <mxPoint x="320" y="80" as="sourcePoint" />
             <mxPoint x="360" y="118.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="330" y="69" />
-              <mxPoint x="330" y="102" />
+              <mxPoint x="340" y="69" />
+              <mxPoint x="340" y="102" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bfZTL-geVbeJQ1GXdaqd-4" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="OChGtl6JTXPUs5rAQgMA-36">
+          <mxGeometry x="-0.7527" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OChGtl6JTXPUs5rAQgMA-66" value="Send PO to Vendor" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="2b4e8129b02d487f-4" vertex="1">

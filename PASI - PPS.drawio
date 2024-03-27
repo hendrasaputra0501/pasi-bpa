@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T08:18:33.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KQwXeNfl_WexJ8p7DGEz" version="24.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-27T08:18:49.005Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="zkuGSgEZr-N_tykguapz" version="24.2.0" type="github" pages="7">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="655" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1173" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -85,7 +85,7 @@
         </mxCell>
         <mxCell id="bfZTL-geVbeJQ1GXdaqd-4" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="OChGtl6JTXPUs5rAQgMA-36">
           <mxGeometry x="-0.7527" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="11" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OChGtl6JTXPUs5rAQgMA-66" value="Send PO to Vendor" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="2b4e8129b02d487f-4" vertex="1">
@@ -182,6 +182,11 @@
             <Array as="points">
               <mxPoint x="283" y="278" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="bfZTL-geVbeJQ1GXdaqd-5" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="OChGtl6JTXPUs5rAQgMA-33">
+          <mxGeometry x="-0.671" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OChGtl6JTXPUs5rAQgMA-38" value="," style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">

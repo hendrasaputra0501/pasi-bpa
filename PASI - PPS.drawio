@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T11:26:38.530Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="S6SOkYE6IwBhB7DExf5T" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-27T11:32:26.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="yKWkdM7subhPbW_4Cnvt" version="24.2.0" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1591" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -869,7 +869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2. Receiving" id="qrAKqGUqpGENbbrTRkKW">
-    <mxGraphModel dx="743" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="857" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="4leRcj-vgABzX0mRtRA_-0" />
         <mxCell id="4leRcj-vgABzX0mRtRA_-1" parent="4leRcj-vgABzX0mRtRA_-0" />
@@ -986,9 +986,9 @@
         <mxCell id="29UQc7JbFCgrhGW8sW96-0" value="Direct to Forwarder?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="4leRcj-vgABzX0mRtRA_-41">
           <mxGeometry x="617" y="39.5" width="72" height="62" as="geometry" />
         </mxCell>
-        <mxCell id="4leRcj-vgABzX0mRtRA_-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;dashed=1;" parent="4leRcj-vgABzX0mRtRA_-2" source="4leRcj-vgABzX0mRtRA_-31" target="4leRcj-vgABzX0mRtRA_-21" edge="1">
+        <mxCell id="4leRcj-vgABzX0mRtRA_-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;dashed=1;" parent="4leRcj-vgABzX0mRtRA_-2" target="4leRcj-vgABzX0mRtRA_-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="416" y="591" as="sourcePoint" />
+            <mxPoint x="698" y="137" as="sourcePoint" />
             <mxPoint x="463" y="591" as="targetPoint" />
             <Array as="points">
               <mxPoint x="558" y="167" />
@@ -1015,7 +1015,8 @@
             <mxPoint x="298" y="737.5" as="sourcePoint" />
             <mxPoint x="771" y="253.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="409" y="320" />
+              <mxPoint x="468" y="221" />
+              <mxPoint x="468" y="320" />
               <mxPoint x="298" y="320" />
             </Array>
           </mxGeometry>
@@ -1035,9 +1036,9 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="4leRcj-vgABzX0mRtRA_-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;dashed=1;" parent="4leRcj-vgABzX0mRtRA_-2" source="N3fZzu-jniYo9xQZ0ole-4" target="4leRcj-vgABzX0mRtRA_-21" edge="1">
+        <mxCell id="4leRcj-vgABzX0mRtRA_-67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;dashed=1;" parent="4leRcj-vgABzX0mRtRA_-2" target="4leRcj-vgABzX0mRtRA_-21" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="269" y="594" as="sourcePoint" />
+            <mxPoint x="348" y="107" as="sourcePoint" />
             <mxPoint x="538" y="397" as="targetPoint" />
             <Array as="points">
               <mxPoint x="408" y="167" />

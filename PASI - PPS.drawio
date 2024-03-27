@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T08:18:20.090Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="sqNhGu25CHEJBiZZ6BTr" version="24.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-27T08:18:33.972Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KQwXeNfl_WexJ8p7DGEz" version="24.2.0" type="github" pages="7">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="474" dy="259" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="655" dy="358" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -45,7 +45,7 @@
           <mxGeometry x="170" y="50" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="OChGtl6JTXPUs5rAQgMA-28" value="Valid" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" parent="2b4e8129b02d487f-4" vertex="1">
-          <mxGeometry x="280" y="53.499999999999886" width="30" height="30" as="geometry" />
+          <mxGeometry x="268" y="53.499999999999886" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OChGtl6JTXPUs5rAQgMA-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" parent="2b4e8129b02d487f-4" source="OChGtl6JTXPUs5rAQgMA-20" target="OChGtl6JTXPUs5rAQgMA-28" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -175,12 +175,12 @@
         <mxCell id="OChGtl6JTXPUs5rAQgMA-73" value="Direct to Affiliate" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" parent="OChGtl6JTXPUs5rAQgMA-9" vertex="1">
           <mxGeometry x="428" y="65" width="50" height="45" as="geometry" />
         </mxCell>
-        <mxCell id="OChGtl6JTXPUs5rAQgMA-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" parent="2b4e8129b02d487f-1" source="OChGtl6JTXPUs5rAQgMA-28" target="2b4e8129b02d487f-6" edge="1">
+        <mxCell id="OChGtl6JTXPUs5rAQgMA-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" parent="2b4e8129b02d487f-1" source="OChGtl6JTXPUs5rAQgMA-28" target="2b4e8129b02d487f-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="270" y="360" as="sourcePoint" />
             <mxPoint x="290" y="350" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="295" y="278" />
+              <mxPoint x="283" y="278" />
             </Array>
           </mxGeometry>
         </mxCell>

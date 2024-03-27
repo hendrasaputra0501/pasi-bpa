@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T10:44:56.081Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2tqGPbWzCozdZwPOM2_A" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-27T10:45:07.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="LbYOi2soqZT6Zsy3ifzN" version="24.2.0" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1591" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -869,7 +869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2. Receiving" id="qrAKqGUqpGENbbrTRkKW">
-    <mxGraphModel dx="1114" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="619" dy="338" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="4leRcj-vgABzX0mRtRA_-0" />
         <mxCell id="4leRcj-vgABzX0mRtRA_-1" parent="4leRcj-vgABzX0mRtRA_-0" />
@@ -933,7 +933,7 @@
         <mxCell id="3f_AJbkVURgbOAEz9HHN-3" value="Move to Rack" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="4leRcj-vgABzX0mRtRA_-30">
           <mxGeometry x="810" y="47" width="70" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="3f_AJbkVURgbOAEz9HHN-4" value="Direct to Affiliate" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="4leRcj-vgABzX0mRtRA_-30">
+        <mxCell id="3f_AJbkVURgbOAEz9HHN-4" value="NG" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="4leRcj-vgABzX0mRtRA_-30">
           <mxGeometry x="720" y="52.5" width="50" height="45" as="geometry" />
         </mxCell>
         <mxCell id="4leRcj-vgABzX0mRtRA_-41" value="Vendor" style="swimlane;html=1;startSize=30;horizontal=0;" parent="4leRcj-vgABzX0mRtRA_-2" vertex="1">

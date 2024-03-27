@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T08:55:28.860Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="lIYShYCEgdEuV0kzJBMe" version="24.2.0" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2024-03-27T08:56:35.548Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="4ZN2JYWROfZFoz4cHhEB" version="24.2.0" type="github" pages="7">
   <diagram name="Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1714" dy="937" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -452,7 +452,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="1. Ordering" id="ewW-mLXgtcHNg6mIJWQR">
-    <mxGraphModel dx="1311" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1485" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="LZab7zWppRBkSROAJWzT-0" />
         <mxCell id="LZab7zWppRBkSROAJWzT-1" parent="LZab7zWppRBkSROAJWzT-0" />
@@ -755,6 +755,19 @@
               <mxPoint x="430" y="10" />
               <mxPoint x="30" y="10" />
               <mxPoint x="30" y="259" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="X7Nt7BL2RAUE990ybtMW-0" value="&lt;b&gt;4&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="LZab7zWppRBkSROAJWzT-12">
+          <mxGeometry x="820" y="171" width="33.5" height="33.5" as="geometry" />
+        </mxCell>
+        <mxCell id="X7Nt7BL2RAUE990ybtMW-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" edge="1" parent="LZab7zWppRBkSROAJWzT-12" source="LZab7zWppRBkSROAJWzT-16" target="X7Nt7BL2RAUE990ybtMW-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="555" y="232" as="sourcePoint" />
+            <mxPoint x="632" y="198" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="780" y="188" />
+              <mxPoint x="780" y="188" />
             </Array>
           </mxGeometry>
         </mxCell>

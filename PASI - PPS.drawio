@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T10:20:46.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="p6V1IiU_yVQr08tDUzU8" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-27T10:21:12.536Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="3HwmxJA8GoH1HmKm2QI-" version="24.2.0" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1591" dy="870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -869,7 +869,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="2. Receiving" id="qrAKqGUqpGENbbrTRkKW">
-    <mxGraphModel dx="1238" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1485" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="4leRcj-vgABzX0mRtRA_-0" />
         <mxCell id="4leRcj-vgABzX0mRtRA_-1" parent="4leRcj-vgABzX0mRtRA_-0" />
@@ -1016,7 +1016,7 @@
             <mxPoint x="365" y="439" as="sourcePoint" />
             <mxPoint x="110.030303030303" y="870" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="65" y="889" />
+              <mxPoint x="65" y="740" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1064,7 +1064,8 @@
             <mxPoint x="261" y="879" as="sourcePoint" />
             <mxPoint x="333" y="770" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="889" />
+              <mxPoint x="112" y="690" />
+              <mxPoint x="180" y="690" />
               <mxPoint x="180" y="421" />
             </Array>
           </mxGeometry>

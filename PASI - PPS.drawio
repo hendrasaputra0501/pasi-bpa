@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T00:15:59.476Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Oa5XaUoQjLU19WIsLJwb" version="24.1.0" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-03-27T00:17:40.524Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="2J5R0lS9g59HNLsfbKCu" version="24.1.0" type="github" pages="2">
   <diagram name="Page-1" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1114" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -387,9 +387,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ID3lGAtNbBix-N0HnKA_-3" value="Req. Purchase Agreement" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="LZab7zWppRBkSROAJWzT-4">
-          <mxGeometry x="90" y="30" width="70" height="37" as="geometry" />
-        </mxCell>
         <mxCell id="LZab7zWppRBkSROAJWzT-12" value="PASI Sales/Procurement" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="LZab7zWppRBkSROAJWzT-2">
           <mxGeometry y="360" width="1210" height="300" as="geometry" />
         </mxCell>
@@ -466,6 +463,21 @@
               <mxPoint x="808" y="236" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="ID3lGAtNbBix-N0HnKA_-4" value="Input Master Part" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;strokeColor=#9673a6;verticalAlign=middle;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="LZab7zWppRBkSROAJWzT-12">
+          <mxGeometry x="90" y="90" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ID3lGAtNbBix-N0HnKA_-5" value="Input Supplier Price" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;strokeColor=#9673a6;verticalAlign=middle;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="LZab7zWppRBkSROAJWzT-12">
+          <mxGeometry x="90" y="27" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ID3lGAtNbBix-N0HnKA_-6" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="LZab7zWppRBkSROAJWzT-12">
+          <mxGeometry x="30" y="64" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ID3lGAtNbBix-N0HnKA_-7" value="Input Part Mapping" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;strokeColor=#9673a6;verticalAlign=middle;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="LZab7zWppRBkSROAJWzT-12">
+          <mxGeometry x="90" y="151.5" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="ID3lGAtNbBix-N0HnKA_-8" value="Upload Forecast" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;strokeColor=#9673a6;verticalAlign=middle;fontColor=default;fillColor=#e1d5e7;" vertex="1" parent="LZab7zWppRBkSROAJWzT-12">
+          <mxGeometry x="230" y="27" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="LZab7zWppRBkSROAJWzT-32" value="PASI Warehouse" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="LZab7zWppRBkSROAJWzT-2">
           <mxGeometry y="660" width="1210" height="140" as="geometry" />

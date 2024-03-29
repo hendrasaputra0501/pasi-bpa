@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T06:46:25.596Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="-IsDwCE7_6CtI6MwyHiW" version="24.2.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-29T06:47:17.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="RlR09mXrHIe3qgm1kHcL" version="24.2.1" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="1013" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="857" dy="468" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,7 +93,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OChGtl6JTXPUs5rAQgMA-84" value="Send Order Report&amp;nbsp; to Supplier" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="2b4e8129b02d487f-4" vertex="1">
-          <mxGeometry x="970" y="21" width="70" height="37" as="geometry" />
+          <mxGeometry x="920" y="21" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="OChGtl6JTXPUs5rAQgMA-87" value="Received Supplier DO" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="2b4e8129b02d487f-4" vertex="1">
           <mxGeometry x="484" y="82" width="70" height="37" as="geometry" />
@@ -101,8 +101,8 @@
         <mxCell id="OChGtl6JTXPUs5rAQgMA-92" value="Send Delivery Notification" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="2b4e8129b02d487f-4" vertex="1">
           <mxGeometry x="714" y="78.5" width="70" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="OChGtl6JTXPUs5rAQgMA-100" value="Create Vendor Bill" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="2b4e8129b02d487f-4" vertex="1">
-          <mxGeometry x="1050" y="230" width="70" height="37" as="geometry" />
+        <mxCell id="OChGtl6JTXPUs5rAQgMA-100" value="Input Vendor Bill" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="2b4e8129b02d487f-4" vertex="1">
+          <mxGeometry x="1000" y="230" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="OChGtl6JTXPUs5rAQgMA-71" value="&lt;div&gt;Parts&lt;/div&gt;&lt;div&gt;Received&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="2b4e8129b02d487f-4" vertex="1">
           <mxGeometry x="480" y="207.5" width="70" height="37" as="geometry" />
@@ -113,8 +113,8 @@
             <mxPoint x="727" y="271" as="targetPoint" />
             <Array as="points">
               <mxPoint x="530" y="180" />
-              <mxPoint x="950" y="180" />
-              <mxPoint x="950" y="30" />
+              <mxPoint x="900" y="180" />
+              <mxPoint x="900" y="30" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -180,7 +180,7 @@
             <mxPoint x="533" y="274" as="sourcePoint" />
             <mxPoint x="802" y="77" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="990" y="225" />
+              <mxPoint x="940" y="225" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -228,7 +228,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OChGtl6JTXPUs5rAQgMA-98" value="Send Bill" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="OChGtl6JTXPUs5rAQgMA-38" vertex="1">
-          <mxGeometry x="970" y="50" width="70" height="37" as="geometry" />
+          <mxGeometry x="920" y="33" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="GMltM3ymVXndYzE7rLGL-5" value="Input/Upload DO" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;strokeColor=#A50040;verticalAlign=middle;fontColor=#ffffff;fillColor=#d80073;" parent="OChGtl6JTXPUs5rAQgMA-38" vertex="1">
           <mxGeometry x="184" y="29" width="70" height="37" as="geometry" />
@@ -241,13 +241,6 @@
               <mxPoint x="166" y="48" />
               <mxPoint x="166" y="48" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="-D6VUE0MxRy48ILgnxTh-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" parent="OChGtl6JTXPUs5rAQgMA-38" target="OChGtl6JTXPUs5rAQgMA-98" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1142" y="68.55555555555543" as="sourcePoint" />
-            <mxPoint x="1217" y="-203" as="targetPoint" />
-            <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="OChGtl6JTXPUs5rAQgMA-73" value="To Pasi?" style="strokeWidth=1;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;rounded=1;shadow=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=8;align=center;" parent="OChGtl6JTXPUs5rAQgMA-38" vertex="1">
@@ -338,7 +331,8 @@
             <mxPoint x="762" y="774" as="sourcePoint" />
             <mxPoint x="1102" y="541.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1005" y="579" />
+              <mxPoint x="960" y="420" />
+              <mxPoint x="960" y="420" />
             </Array>
           </mxGeometry>
         </mxCell>

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T01:01:37.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="V5ogGkpkOUAf8Ki6r_Rp" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-29T01:02:00.779Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="8Nc4LmbWyNA_PeiPgjFX" version="24.2.0" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1238" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1275,7 +1275,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="3. Receiving Purchase Import" id="VC2q0LuLEVO798dhsYrI">
-    <mxGraphModel dx="446" dy="244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="969" dy="530" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="Ge35F2F7UKr9i2X2-JDJ-0" />
         <mxCell id="Ge35F2F7UKr9i2X2-JDJ-1" parent="Ge35F2F7UKr9i2X2-JDJ-0" />
@@ -1522,7 +1522,7 @@
         <mxCell id="COQ0Ke3TuU1KpEBv3Df9-7" value="PLB" style="swimlane;html=1;startSize=20;horizontal=0;" parent="COQ0Ke3TuU1KpEBv3Df9-2" vertex="1">
           <mxGeometry y="280" width="1210" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="0an1XSeKUpw0g6MwhAzQ-0" value="Input Delivery to Affiliate" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="COQ0Ke3TuU1KpEBv3Df9-7">
+        <mxCell id="0an1XSeKUpw0g6MwhAzQ-0" value="Create Delivery to Affiliate" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="COQ0Ke3TuU1KpEBv3Df9-7">
           <mxGeometry x="120" y="50" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="3WSkkxPtVf3QkRLEJIV7-0" value="&lt;b&gt;3&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="COQ0Ke3TuU1KpEBv3Df9-7">

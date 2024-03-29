@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T01:01:08.805Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="JkJpltn0p_p7Kz6hu3mr" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-29T01:01:37.998Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="V5ogGkpkOUAf8Ki6r_Rp" version="24.2.0" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1238" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1275,7 +1275,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="3. Receiving Purchase Import" id="VC2q0LuLEVO798dhsYrI">
-    <mxGraphModel dx="586" dy="321" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="446" dy="244" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="Ge35F2F7UKr9i2X2-JDJ-0" />
         <mxCell id="Ge35F2F7UKr9i2X2-JDJ-1" parent="Ge35F2F7UKr9i2X2-JDJ-0" />
@@ -1460,12 +1460,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="e-1VN4NAgYJmhNcuzXuX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" parent="Ge35F2F7UKr9i2X2-JDJ-2" source="edrHQcXyUVSgS5voYxVb-0" target="JYn6_5xdfwvdU2CNhzP7-0" edge="1">
+        <mxCell id="e-1VN4NAgYJmhNcuzXuX-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" parent="Ge35F2F7UKr9i2X2-JDJ-2" source="87wWOeDGGnYUtHRmFjKc-1" target="JYn6_5xdfwvdU2CNhzP7-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="453" y="474" as="sourcePoint" />
             <mxPoint x="670" y="474" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="675" y="568" />
+              <mxPoint x="675" y="470" />
             </Array>
           </mxGeometry>
         </mxCell>

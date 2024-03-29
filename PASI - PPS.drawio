@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T06:39:03.478Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="rf4pj5T2suEa_5ctBSeA" version="24.2.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-29T06:39:51.406Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="HD8l-cax3-7pKcMddBLn" version="24.2.1" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1238" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -93,7 +93,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OChGtl6JTXPUs5rAQgMA-84" value="Send Order Report&amp;nbsp; to Supplier" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="2b4e8129b02d487f-4" vertex="1">
-          <mxGeometry x="1067" y="21" width="70" height="37" as="geometry" />
+          <mxGeometry x="1000" y="21" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="OChGtl6JTXPUs5rAQgMA-87" value="Received Supplier DO" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="2b4e8129b02d487f-4" vertex="1">
           <mxGeometry x="530" y="82" width="70" height="37" as="geometry" />
@@ -113,8 +113,8 @@
             <mxPoint x="727" y="271" as="targetPoint" />
             <Array as="points">
               <mxPoint x="530" y="180" />
-              <mxPoint x="1042" y="180" />
-              <mxPoint x="1042" y="30" />
+              <mxPoint x="960" y="180" />
+              <mxPoint x="960" y="30" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -181,9 +181,8 @@
             <mxPoint x="533" y="274" as="sourcePoint" />
             <mxPoint x="802" y="77" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1002" y="200" />
-              <mxPoint x="1052" y="200" />
-              <mxPoint x="1052" y="40" />
+              <mxPoint x="980" y="225" />
+              <mxPoint x="980" y="40" />
             </Array>
           </mxGeometry>
         </mxCell>

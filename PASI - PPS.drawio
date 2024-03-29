@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T03:16:26.343Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Ag15aNuCdtXbj-qdHj9Y" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-29T03:16:56.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="aCKkS-HHM-yJahUzYyJl" version="24.2.0" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1238" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1992,7 +1992,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="6. Billing Vendor" id="MNS6am6GdvKAV8nySILa">
-    <mxGraphModel dx="743" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="891" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="jPinzQXYxkw2AWQa4lMp-0" />
         <mxCell id="jPinzQXYxkw2AWQa4lMp-1" parent="jPinzQXYxkw2AWQa4lMp-0" />
@@ -2008,8 +2008,14 @@
         <mxCell id="aO4gvNXTH_kMbVS2Z9P9-1" value="&lt;div&gt;Craete Vendor Bill&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="jPinzQXYxkw2AWQa4lMp-11">
           <mxGeometry x="148" y="85" width="80" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="5ktk8gEhs-ZX1APFnPTC-0" value="Finance" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="jPinzQXYxkw2AWQa4lMp-2">
+        <mxCell id="5ktk8gEhs-ZX1APFnPTC-0" value="Finance and&amp;nbsp;&lt;div&gt;Accounting&lt;/div&gt;" style="swimlane;html=1;startSize=30;horizontal=0;" vertex="1" parent="jPinzQXYxkw2AWQa4lMp-2">
           <mxGeometry y="230" width="1210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="aO4gvNXTH_kMbVS2Z9P9-2" value="&lt;div&gt;Approve AP&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="5ktk8gEhs-ZX1APFnPTC-0">
+          <mxGeometry x="148" y="60" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="aO4gvNXTH_kMbVS2Z9P9-3" value="&lt;div&gt;Payment&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="5ktk8gEhs-ZX1APFnPTC-0">
+          <mxGeometry x="290" y="60" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="jPinzQXYxkw2AWQa4lMp-30" value="Vendor" style="swimlane;html=1;startSize=30;horizontal=0;" parent="jPinzQXYxkw2AWQa4lMp-2" vertex="1">
           <mxGeometry y="370" width="1210" height="140" as="geometry" />

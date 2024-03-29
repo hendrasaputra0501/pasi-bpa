@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T01:39:38.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="pjPJHmS2WWrXgvAouUbS" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-29T01:41:10.949Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="J8yqY4S96JjO6M2CBwfV" version="24.2.0" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1238" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1473,7 +1473,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="4. Delivery" id="d6Xk20PynXDtmUrLkWrX">
-    <mxGraphModel dx="1173" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="796" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="COQ0Ke3TuU1KpEBv3Df9-0" />
         <mxCell id="COQ0Ke3TuU1KpEBv3Df9-1" parent="COQ0Ke3TuU1KpEBv3Df9-0" />
@@ -1542,6 +1542,12 @@
         </mxCell>
         <mxCell id="COQ0Ke3TuU1KpEBv3Df9-11" value="Affiliate" style="swimlane;html=1;startSize=20;horizontal=0;" parent="COQ0Ke3TuU1KpEBv3Df9-2" vertex="1">
           <mxGeometry y="400" width="1210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="HBP69kEXZ3gig2j7da6N-0" value="&lt;div&gt;Send Order Report to PASI&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="COQ0Ke3TuU1KpEBv3Df9-11">
+          <mxGeometry x="540" y="40" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="HBP69kEXZ3gig2j7da6N-1" value="&lt;div&gt;Received Parts&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" vertex="1" parent="COQ0Ke3TuU1KpEBv3Df9-11">
+          <mxGeometry x="390" y="40" width="70" height="37" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

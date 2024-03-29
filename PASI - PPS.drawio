@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T03:04:50.466Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="BIku_dMP8Mq5ALnZgcXj" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-29T03:05:18.719Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="KLQOdUQZm7jNciVJQhXZ" version="24.2.0" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1238" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1798,35 +1798,35 @@
           <mxGeometry y="270" width="1210" height="140" as="geometry" />
         </mxCell>
         <mxCell id="m5_D58KdVLLQMZg2nYIL-7" value="&lt;div&gt;Auto&lt;/div&gt;&lt;div&gt;Sync Tally Data from Portal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="3-SuQnTQfofQ239qlVt7-0">
-          <mxGeometry x="560" y="50" width="70" height="40" as="geometry" />
+          <mxGeometry x="537" y="50" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5_D58KdVLLQMZg2nYIL-10" value="&lt;div&gt;Create Shipping Instruction&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="3-SuQnTQfofQ239qlVt7-0">
-          <mxGeometry x="680" y="50" width="70" height="40" as="geometry" />
+          <mxGeometry x="657" y="50" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5_D58KdVLLQMZg2nYIL-11" value="&lt;div&gt;Create Comercial Invoice and Pacling List&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="3-SuQnTQfofQ239qlVt7-0">
-          <mxGeometry x="800" y="50" width="80" height="40" as="geometry" />
+          <mxGeometry x="777" y="50" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5_D58KdVLLQMZg2nYIL-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" edge="1" parent="3-SuQnTQfofQ239qlVt7-0" source="m5_D58KdVLLQMZg2nYIL-7" target="m5_D58KdVLLQMZg2nYIL-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="510" y="236" as="sourcePoint" />
-            <mxPoint x="570" y="236" as="targetPoint" />
+            <mxPoint x="487" y="236" as="sourcePoint" />
+            <mxPoint x="547" y="236" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m5_D58KdVLLQMZg2nYIL-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" edge="1" parent="3-SuQnTQfofQ239qlVt7-0" source="m5_D58KdVLLQMZg2nYIL-10" target="m5_D58KdVLLQMZg2nYIL-11">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="640" y="80" as="sourcePoint" />
-            <mxPoint x="690" y="80" as="targetPoint" />
+            <mxPoint x="617" y="80" as="sourcePoint" />
+            <mxPoint x="667" y="80" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m5_D58KdVLLQMZg2nYIL-14" value="&lt;div&gt;Send SI, CI, and PL to Portal Forwarder&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="3-SuQnTQfofQ239qlVt7-0">
-          <mxGeometry x="925" y="50" width="70" height="40" as="geometry" />
+          <mxGeometry x="902" y="50" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5_D58KdVLLQMZg2nYIL-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" edge="1" parent="3-SuQnTQfofQ239qlVt7-0" source="m5_D58KdVLLQMZg2nYIL-11" target="m5_D58KdVLLQMZg2nYIL-14">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="760" y="80" as="sourcePoint" />
-            <mxPoint x="810" y="80" as="targetPoint" />
+            <mxPoint x="737" y="80" as="sourcePoint" />
+            <mxPoint x="787" y="80" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -1840,7 +1840,7 @@
           <mxGeometry x="196" y="67.5" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="1wsGIEAsvtdWZkelFZZq-1" value="&lt;div&gt;Input Tally Data&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" vertex="1" parent="bS_ujvpjnqQX0kUpAlci-40">
-          <mxGeometry x="560" y="67.5" width="70" height="37" as="geometry" />
+          <mxGeometry x="538" y="67.5" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="1wsGIEAsvtdWZkelFZZq-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" edge="1" parent="bS_ujvpjnqQX0kUpAlci-40" source="yTG0eHCHCWRYvHvA8xTd-0" target="c6cAdYFfQpFNvN-cxjVd-0">
           <mxGeometry relative="1" as="geometry">
@@ -1940,13 +1940,20 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="m5_D58KdVLLQMZg2nYIL-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" edge="1" parent="bS_ujvpjnqQX0kUpAlci-2" source="m5_D58KdVLLQMZg2nYIL-14" target="m5_D58KdVLLQMZg2nYIL-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="890" y="350" as="sourcePoint" />
+            <mxPoint x="935" y="350" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="m5_D58KdVLLQMZg2nYIL-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" edge="1" parent="bS_ujvpjnqQX0kUpAlci-1" target="1wsGIEAsvtdWZkelFZZq-1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="367" y="550.9999999999999" as="sourcePoint" />
             <mxPoint x="760" y="572" as="targetPoint" />
             <Array as="points">
               <mxPoint x="367" y="592" />
-              <mxPoint x="615" y="592" />
+              <mxPoint x="593" y="592" />
             </Array>
           </mxGeometry>
         </mxCell>

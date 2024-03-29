@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T03:00:43.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="iTzWivFbUX50j7eo2Exw" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-29T03:01:04.890Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="VubW4OkDM0itKrje3ys_" version="24.2.0" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1238" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1769,7 +1769,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="5. Delivery Export" id="VFrGtRZ_IVlEFWUuVGDj">
-    <mxGraphModel dx="1173" dy="641" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="796" dy="435" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="bS_ujvpjnqQX0kUpAlci-0" />
         <mxCell id="bS_ujvpjnqQX0kUpAlci-1" parent="bS_ujvpjnqQX0kUpAlci-0" />
@@ -1787,6 +1787,9 @@
         </mxCell>
         <mxCell id="m5_D58KdVLLQMZg2nYIL-6" value="&lt;div&gt;Auto&lt;/div&gt;&lt;div&gt;Sync Internal Trasnfer Forwarder&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;from portal&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="bS_ujvpjnqQX0kUpAlci-3">
           <mxGeometry x="420" y="50" width="80" height="48.47" as="geometry" />
+        </mxCell>
+        <mxCell id="m5_D58KdVLLQMZg2nYIL-7" value="&lt;div&gt;Auto&lt;/div&gt;&lt;div&gt;Sync Tally Data from Portal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="bS_ujvpjnqQX0kUpAlci-3">
+          <mxGeometry x="550" y="50" width="80" height="48.47" as="geometry" />
         </mxCell>
         <mxCell id="bS_ujvpjnqQX0kUpAlci-26" value="Vendor" style="swimlane;html=1;startSize=20;horizontal=0;" vertex="1" parent="bS_ujvpjnqQX0kUpAlci-2">
           <mxGeometry y="150" width="1210" height="120" as="geometry" />

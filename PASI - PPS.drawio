@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T04:36:18.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="WHw6AX07MqWyzEnmqrmQ" version="24.2.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-29T04:36:51.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="e_A-CksJ52J9kTtbCD_O" version="24.2.1" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="743" dy="406" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1311" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -214,9 +214,6 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OChGtl6JTXPUs5rAQgMA-9" value="Forwarder" style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
-          <mxGeometry y="560" width="1260" height="150" as="geometry" />
-        </mxCell>
         <mxCell id="OChGtl6JTXPUs5rAQgMA-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" parent="2b4e8129b02d487f-1" source="OChGtl6JTXPUs5rAQgMA-28" target="2b4e8129b02d487f-6" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="342" y="360" as="sourcePoint" />
@@ -228,7 +225,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="OChGtl6JTXPUs5rAQgMA-38" value="Vendor" style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
-          <mxGeometry y="710" width="1260" height="150" as="geometry" />
+          <mxGeometry y="560" width="1260" height="150" as="geometry" />
         </mxCell>
         <mxCell id="OChGtl6JTXPUs5rAQgMA-39" value="Order Received&lt;div&gt;Approval by Portal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="OChGtl6JTXPUs5rAQgMA-38" vertex="1">
           <mxGeometry x="205" y="43" width="70" height="37" as="geometry" />
@@ -423,6 +420,9 @@
             <mxPoint x="535" y="780" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="OChGtl6JTXPUs5rAQgMA-9" value="Forwarder" style="swimlane;html=1;startSize=20;horizontal=0;" parent="2b4e8129b02d487f-1" vertex="1">
+          <mxGeometry y="710" width="1260" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

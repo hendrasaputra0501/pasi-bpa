@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T04:48:15.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="uluQmX_7Qgkv5rRc3yoz" version="24.2.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-29T04:48:36.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="zlPtTRvCCQwwqwr7mlBL" version="24.2.1" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1393" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1727,7 +1727,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="5. Delivery Export Sales" id="VFrGtRZ_IVlEFWUuVGDj">
-    <mxGraphModel dx="506" dy="277" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1485" dy="812" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="bS_ujvpjnqQX0kUpAlci-0" />
         <mxCell id="bS_ujvpjnqQX0kUpAlci-1" parent="bS_ujvpjnqQX0kUpAlci-0" />
@@ -1744,7 +1744,7 @@
           <mxGeometry x="130" y="61.53" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="m5_D58KdVLLQMZg2nYIL-6" value="&lt;div&gt;Auto&lt;/div&gt;&lt;div&gt;Sync Internal Trasnfer Forwarder&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;from portal&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="bS_ujvpjnqQX0kUpAlci-3" vertex="1">
-          <mxGeometry x="329" y="50" width="80" height="48.47" as="geometry" />
+          <mxGeometry x="335" y="50" width="80" height="48.47" as="geometry" />
         </mxCell>
         <mxCell id="3VPci0nPShIuLropP16N-0" value="&lt;div&gt;Auto Sync DO from PLB Portal&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="bS_ujvpjnqQX0kUpAlci-3" vertex="1">
           <mxGeometry x="919" y="55.610000000000014" width="73" height="37.25" as="geometry" />
@@ -1824,7 +1824,7 @@
           <mxGeometry x="225" y="51" width="80" height="70" as="geometry" />
         </mxCell>
         <mxCell id="m5_D58KdVLLQMZg2nYIL-2" value="Input Internal Transfer" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="bS_ujvpjnqQX0kUpAlci-40" vertex="1">
-          <mxGeometry x="334" y="67.5" width="70" height="37" as="geometry" />
+          <mxGeometry x="340" y="67.5" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="m5_D58KdVLLQMZg2nYIL-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" parent="bS_ujvpjnqQX0kUpAlci-40" source="m5_D58KdVLLQMZg2nYIL-0" target="m5_D58KdVLLQMZg2nYIL-2" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1843,7 +1843,7 @@
             <mxPoint x="397" y="96" as="sourcePoint" />
             <mxPoint x="440" y="96" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="350" y="20" />
+              <mxPoint x="360" y="20" />
               <mxPoint x="190" y="20" />
             </Array>
           </mxGeometry>
@@ -1866,6 +1866,11 @@
               <mxPoint x="265" y="162" />
               <mxPoint x="480" y="162" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="oNsoqPROjN9gHs5dO49B-1" value="&lt;font style=&quot;font-size: 8px;&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=12;" vertex="1" connectable="0" parent="m5_D58KdVLLQMZg2nYIL-1">
+          <mxGeometry x="-0.892" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="m5_D58KdVLLQMZg2nYIL-20" value="&lt;div&gt;Input Delivery Order&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="bS_ujvpjnqQX0kUpAlci-40" vertex="1">

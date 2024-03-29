@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T03:21:06.069Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="cOBHbo1TDuW_B92a9GnV" version="24.2.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-29T03:21:16.078Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wGArM0Vla_5ssxfLsJkZ" version="24.2.0" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1238" dy="677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2075,7 +2075,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="7. Customer Invoice" id="eKYPAtC9gnENFqKGf0Yr">
-    <mxGraphModel dx="696" dy="381" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="571" dy="312" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="ylMtzRc362pFpXdP9fjl-0" />
         <mxCell id="ylMtzRc362pFpXdP9fjl-1" parent="ylMtzRc362pFpXdP9fjl-0" />
@@ -2088,7 +2088,7 @@
         <mxCell id="ylMtzRc362pFpXdP9fjl-4" value="&lt;b&gt;2&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" vertex="1" parent="ylMtzRc362pFpXdP9fjl-3">
           <mxGeometry x="60" y="53" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ylMtzRc362pFpXdP9fjl-5" value="&lt;div&gt;Input Vendor Bill&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ylMtzRc362pFpXdP9fjl-3">
+        <mxCell id="ylMtzRc362pFpXdP9fjl-5" value="&lt;div&gt;Create Customer Invoice&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="ylMtzRc362pFpXdP9fjl-3">
           <mxGeometry x="148" y="48" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="ylMtzRc362pFpXdP9fjl-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" edge="1" parent="ylMtzRc362pFpXdP9fjl-3" source="ylMtzRc362pFpXdP9fjl-4" target="ylMtzRc362pFpXdP9fjl-5">

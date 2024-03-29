@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T04:40:14.400Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="DMoajdgUQg40BxF-gpF5" version="24.2.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-29T04:40:36.477Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="hwT-ppwM9OEl8Uh2-X1d" version="24.2.1" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1013" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -99,7 +99,7 @@
           <mxGeometry x="1067" y="21" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="OChGtl6JTXPUs5rAQgMA-87" value="Received Supplier DO" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="2b4e8129b02d487f-4" vertex="1">
-          <mxGeometry x="652" y="82" width="70" height="37" as="geometry" />
+          <mxGeometry x="633" y="82" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="OChGtl6JTXPUs5rAQgMA-92" value="Send Delivery Notification" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="2b4e8129b02d487f-4" vertex="1">
           <mxGeometry x="927" y="130" width="70" height="37" as="geometry" />
@@ -341,7 +341,7 @@
             <mxPoint x="535" y="770" as="targetPoint" />
             <Array as="points">
               <mxPoint x="343" y="390" />
-              <mxPoint x="687" y="390" />
+              <mxPoint x="668" y="390" />
             </Array>
           </mxGeometry>
         </mxCell>

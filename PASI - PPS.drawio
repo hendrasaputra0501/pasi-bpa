@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-29T06:37:33.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="f4wLeH6QKm6ZlNb1m0SR" version="24.2.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-03-29T06:38:06.133Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="d3nkiZK-e4x_-fQZ3azA" version="24.2.1" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
-    <mxGraphModel dx="1857" dy="1015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1013" dy="554" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -430,6 +430,16 @@
         </mxCell>
         <mxCell id="H8-8fgQMa_ZMKyO4CBSe-9" value="Part Received" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;strokeColor=#A50040;verticalAlign=middle;fontColor=#ffffff;fillColor=#d80073;" vertex="1" parent="H8-8fgQMa_ZMKyO4CBSe-7">
           <mxGeometry x="279" y="30" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="H8-8fgQMa_ZMKyO4CBSe-12" value="Delivery Order" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;strokeColor=#A50040;verticalAlign=middle;fontColor=#ffffff;fillColor=#d80073;" vertex="1" parent="H8-8fgQMa_ZMKyO4CBSe-7">
+          <mxGeometry x="400" y="30" width="70" height="37" as="geometry" />
+        </mxCell>
+        <mxCell id="H8-8fgQMa_ZMKyO4CBSe-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" edge="1" parent="H8-8fgQMa_ZMKyO4CBSe-7" source="H8-8fgQMa_ZMKyO4CBSe-9" target="H8-8fgQMa_ZMKyO4CBSe-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="325" y="-23" as="sourcePoint" />
+            <mxPoint x="325" y="40" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="H8-8fgQMa_ZMKyO4CBSe-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" edge="1" parent="2b4e8129b02d487f-1" source="H8-8fgQMa_ZMKyO4CBSe-2" target="H8-8fgQMa_ZMKyO4CBSe-9">
           <mxGeometry relative="1" as="geometry">

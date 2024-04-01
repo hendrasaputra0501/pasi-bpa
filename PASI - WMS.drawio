@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T00:48:15.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Or3cbf51Vi6mPvEkgVkH" version="24.2.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2024-04-01T00:48:22.769Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="b0t58BCshGTydkFr3lD_" version="24.2.1" type="github" pages="6">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1061" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1404,7 +1404,7 @@
         <mxCell id="Hwgq34wX531X5i8ONuBV-1" value="Customer" style="swimlane;html=1;startSize=20;horizontal=0;" parent="COQ0Ke3TuU1KpEBv3Df9-2" vertex="1">
           <mxGeometry y="270" width="1050" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="HBP69kEXZ3gig2j7da6N-1" value="&lt;div&gt;Received Parts&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="Hwgq34wX531X5i8ONuBV-1" vertex="1">
+        <mxCell id="HBP69kEXZ3gig2j7da6N-1" value="&lt;div&gt;Received Product&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="Hwgq34wX531X5i8ONuBV-1" vertex="1">
           <mxGeometry x="439" y="49" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="HBP69kEXZ3gig2j7da6N-0" value="&lt;div&gt;Send Order Report to PASI&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="Hwgq34wX531X5i8ONuBV-1" vertex="1">

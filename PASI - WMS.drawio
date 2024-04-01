@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T00:30:42.113Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="wCwT92svOsOwdQ3n9-z1" version="24.2.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-01T00:33:11.117Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="bKuKRIpnkA2CNRxRVwtx" version="24.2.1" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1061" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -584,15 +584,15 @@
     </mxGraphModel>
   </diagram>
   <diagram name="1. Ordering" id="ewW-mLXgtcHNg6mIJWQR">
-    <mxGraphModel dx="928" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="825" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="LZab7zWppRBkSROAJWzT-0" />
         <mxCell id="LZab7zWppRBkSROAJWzT-1" parent="LZab7zWppRBkSROAJWzT-0" />
         <mxCell id="LZab7zWppRBkSROAJWzT-2" value="1. Ordering" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="LZab7zWppRBkSROAJWzT-1" vertex="1">
-          <mxGeometry x="10" y="10" width="920" height="810" as="geometry" />
+          <mxGeometry x="10" y="10" width="950" height="810" as="geometry" />
         </mxCell>
         <mxCell id="LZab7zWppRBkSROAJWzT-3" value="Customer" style="swimlane;html=1;startSize=30;horizontal=0;" parent="LZab7zWppRBkSROAJWzT-2" vertex="1">
-          <mxGeometry y="20" width="920" height="120" as="geometry" />
+          <mxGeometry y="20" width="950" height="120" as="geometry" />
         </mxCell>
         <mxCell id="LZab7zWppRBkSROAJWzT-6" value="" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="LZab7zWppRBkSROAJWzT-3" vertex="1">
           <mxGeometry x="38" y="45" width="30" height="30" as="geometry" />
@@ -623,6 +623,24 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="MlDTjUNmEqRWVWso0yWt-0" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#e1d5e7;strokeColor=#9673a6;shadow=0;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="LZab7zWppRBkSROAJWzT-3">
+          <mxGeometry x="788" y="20" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MlDTjUNmEqRWVWso0yWt-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=8;fillColor=#d80073;strokeColor=#A50040;shadow=0;strokeWidth=1;align=center;verticalAlign=middle;fontFamily=Verdana;fontColor=#ffffff;labelBackgroundColor=none;" vertex="1" parent="LZab7zWppRBkSROAJWzT-3">
+          <mxGeometry x="788" y="50" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MlDTjUNmEqRWVWso0yWt-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;" vertex="1" parent="LZab7zWppRBkSROAJWzT-3">
+          <mxGeometry x="788" y="80" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="MlDTjUNmEqRWVWso0yWt-3" value="PASI System (Odoo)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LZab7zWppRBkSROAJWzT-3">
+          <mxGeometry x="828" y="15" width="115.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MlDTjUNmEqRWVWso0yWt-4" value="PASI Portal (Odoo)" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LZab7zWppRBkSROAJWzT-3">
+          <mxGeometry x="828" y="45" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MlDTjUNmEqRWVWso0yWt-5" value="Manual" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="LZab7zWppRBkSROAJWzT-3">
+          <mxGeometry x="822.5" y="75" width="60" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="ID3lGAtNbBix-N0HnKA_-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" parent="LZab7zWppRBkSROAJWzT-2" source="ID3lGAtNbBix-N0HnKA_-20" target="sREEas9JUnIbprGlQSYq-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="812" y="624" as="sourcePoint" />
@@ -634,7 +652,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="LZab7zWppRBkSROAJWzT-12" value="PASI Sales &amp;amp; Planning" style="swimlane;html=1;startSize=30;horizontal=0;" parent="LZab7zWppRBkSROAJWzT-2" vertex="1">
-          <mxGeometry y="140" width="920" height="310" as="geometry" />
+          <mxGeometry y="140" width="950" height="310" as="geometry" />
         </mxCell>
         <mxCell id="LZab7zWppRBkSROAJWzT-13" value="Validasi Order" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="LZab7zWppRBkSROAJWzT-12" vertex="1">
           <mxGeometry x="340" y="204.5" width="70" height="37" as="geometry" />
@@ -845,7 +863,7 @@
           <mxGeometry x="580" y="51.75" width="19" height="22.25" as="geometry" />
         </mxCell>
         <mxCell id="LZab7zWppRBkSROAJWzT-41" value="PASI&lt;div&gt;Procurement&lt;/div&gt;" style="swimlane;html=1;startSize=30;horizontal=0;" parent="LZab7zWppRBkSROAJWzT-2" vertex="1">
-          <mxGeometry y="450" width="920" height="110" as="geometry" />
+          <mxGeometry y="450" width="950" height="110" as="geometry" />
         </mxCell>
         <mxCell id="ID3lGAtNbBix-N0HnKA_-20" value="Approval PO" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;strokeColor=#9673a6;verticalAlign=middle;fontColor=default;fillColor=#e1d5e7;" parent="LZab7zWppRBkSROAJWzT-41" vertex="1">
           <mxGeometry x="732" y="48" width="70" height="37" as="geometry" />
@@ -864,7 +882,7 @@
           <mxGeometry x="790" y="73" width="20" height="21" as="geometry" />
         </mxCell>
         <mxCell id="sREEas9JUnIbprGlQSYq-0" value="Vendor" style="swimlane;html=1;startSize=30;horizontal=0;" parent="LZab7zWppRBkSROAJWzT-2" vertex="1">
-          <mxGeometry y="560" width="920" height="110" as="geometry" />
+          <mxGeometry y="560" width="950" height="110" as="geometry" />
         </mxCell>
         <mxCell id="sREEas9JUnIbprGlQSYq-1" value="Approved By Vendor" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d80073;fontColor=#ffffff;strokeColor=#A50040;" parent="sREEas9JUnIbprGlQSYq-0" vertex="1">
           <mxGeometry x="732" y="30" width="70" height="37" as="geometry" />

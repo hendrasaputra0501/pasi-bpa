@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T00:22:29.324Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="CZL9YYhCMy0spEkh9doQ" version="24.2.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-01T00:22:44.906Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="BdEK8MdbCEFKo3O2qVDX" version="24.2.1" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1061" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -629,7 +629,7 @@
         <mxCell id="LZab7zWppRBkSROAJWzT-7" value="Input Order" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;strokeColor=#9673a6;verticalAlign=middle;fontColor=default;fillColor=#e1d5e7;" parent="LZab7zWppRBkSROAJWzT-4" vertex="1">
           <mxGeometry x="150" y="87.99999999999997" width="70" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="LZab7zWppRBkSROAJWzT-8" value="Input Forecast" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;strokeColor=#9673a6;verticalAlign=middle;fontColor=default;fillColor=#e1d5e7;" parent="LZab7zWppRBkSROAJWzT-4" vertex="1">
+        <mxCell id="LZab7zWppRBkSROAJWzT-8" value="Input Daily/Monthly Forecast" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;strokeColor=#9673a6;verticalAlign=middle;fontColor=default;fillColor=#e1d5e7;" parent="LZab7zWppRBkSROAJWzT-4" vertex="1">
           <mxGeometry x="80" y="30" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="oYRssxngDELttuf_LTbj-17" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=3.6117782592773438;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="LZab7zWppRBkSROAJWzT-4" vertex="1">

@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T00:38:13.993Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="Aw7thm8p7Czn_uxxs_KK" version="24.2.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-01T00:38:23.737Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="sCXXjlxaGahOKtJLI4T-" version="24.2.1" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1061" dy="580" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -838,7 +838,7 @@
         <mxCell id="ID3lGAtNbBix-N0HnKA_-20" value="Approval PO" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;strokeColor=#9673a6;verticalAlign=middle;fontColor=default;fillColor=#e1d5e7;" parent="LZab7zWppRBkSROAJWzT-41" vertex="1">
           <mxGeometry x="732" y="48" width="70" height="37" as="geometry" />
         </mxCell>
-        <mxCell id="LZab7zWppRBkSROAJWzT-20" value="Send PO to Vendor" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="LZab7zWppRBkSROAJWzT-41" vertex="1">
+        <mxCell id="LZab7zWppRBkSROAJWzT-20" value="Send PO to Affiliate" style="rounded=1;whiteSpace=wrap;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="LZab7zWppRBkSROAJWzT-41" vertex="1">
           <mxGeometry x="631" y="48" width="70" height="37" as="geometry" />
         </mxCell>
         <mxCell id="ID3lGAtNbBix-N0HnKA_-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" parent="LZab7zWppRBkSROAJWzT-41" source="LZab7zWppRBkSROAJWzT-20" target="ID3lGAtNbBix-N0HnKA_-20" edge="1">

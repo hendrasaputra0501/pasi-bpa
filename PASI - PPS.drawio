@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-04-26T09:31:11.405Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="j3D-UK_9_zHABqbzQF7s" version="24.3.0" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-04-26T09:32:17.702Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="3_ef-bCLeCcIWyHBc0um" version="24.3.0" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1114" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -1404,7 +1404,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="3. Receiving Purchase Import" id="VC2q0LuLEVO798dhsYrI">
-    <mxGraphModel dx="530" dy="290" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="768" dy="420" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="Ge35F2F7UKr9i2X2-JDJ-0" />
         <mxCell id="Ge35F2F7UKr9i2X2-JDJ-1" parent="Ge35F2F7UKr9i2X2-JDJ-0" />

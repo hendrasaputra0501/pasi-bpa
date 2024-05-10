@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T07:02:52.655Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ahoynRz7Qk7Qm1eKiLj6" version="24.3.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-05-10T07:03:02.390Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="stLomFpO6Wril8Z_9YP4" version="24.3.1" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1114" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -2103,6 +2103,24 @@
         </mxCell>
         <mxCell id="bS_ujvpjnqQX0kUpAlci-45" value="&lt;b&gt;7&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#e3c800;fontColor=#000000;strokeColor=#B09500;" parent="bS_ujvpjnqQX0kUpAlci-44" vertex="1">
           <mxGeometry x="940.5" y="55" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="kUDuqcr_OGVr2I4vfEUO-0" value="" style="group" vertex="1" connectable="0" parent="bS_ujvpjnqQX0kUpAlci-44">
+          <mxGeometry x="35" y="7" width="130" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="kUDuqcr_OGVr2I4vfEUO-1" value="Legend" style="rounded=0;html=1;spacingLeft=-80;spacingTop=-75;" vertex="1" parent="kUDuqcr_OGVr2I4vfEUO-0">
+          <mxGeometry width="130" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="kUDuqcr_OGVr2I4vfEUO-2" value="Odoo Pasi" style="rounded=1;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;strokeColor=#9673a6;verticalAlign=middle;fontColor=default;fillColor=#e1d5e7;spacingLeft=82;" vertex="1" parent="kUDuqcr_OGVr2I4vfEUO-0">
+          <mxGeometry x="7" y="15.75" width="34" height="14.25" as="geometry" />
+        </mxCell>
+        <mxCell id="kUDuqcr_OGVr2I4vfEUO-3" value="Odoo Portal" style="rounded=1;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d80073;fontColor=#000000;strokeColor=#A50040;spacingLeft=90;" vertex="1" parent="kUDuqcr_OGVr2I4vfEUO-0">
+          <mxGeometry x="7" y="35.25" width="34" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="kUDuqcr_OGVr2I4vfEUO-4" value="Manual" style="rounded=1;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;spacingLeft=70;" vertex="1" parent="kUDuqcr_OGVr2I4vfEUO-0">
+          <mxGeometry x="7" y="53.75" width="34" height="12.25" as="geometry" />
+        </mxCell>
+        <mxCell id="kUDuqcr_OGVr2I4vfEUO-5" value="Proses Lain" style="ellipse;html=1;aspect=fixed;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=8;fontColor=#000000;fillColor=#e3c800;spacingLeft=84;" vertex="1" parent="kUDuqcr_OGVr2I4vfEUO-0">
+          <mxGeometry x="16.5" y="69" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="bS_ujvpjnqQX0kUpAlci-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;labelBackgroundColor=none;startArrow=none;startFill=0;startSize=5;endArrow=classicThin;endFill=1;endSize=5;jettySize=auto;orthogonalLoop=1;strokeWidth=1;fontFamily=Verdana;fontSize=8;" parent="bS_ujvpjnqQX0kUpAlci-2" source="bS_ujvpjnqQX0kUpAlci-28" target="yTG0eHCHCWRYvHvA8xTd-0" edge="1">
           <mxGeometry relative="1" as="geometry">

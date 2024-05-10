@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-10T06:50:57.539Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="MNJFcMewdxo-mtbitwuI" version="24.3.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2024-05-10T07:00:47.152Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="vuHbmoFIfGM5_mbaDSlN" version="24.3.1" type="github" pages="8">
   <diagram name="0. Global" id="c7488fd3-1785-93aa-aadb-54a6760d102a">
     <mxGraphModel dx="1114" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -584,11 +584,11 @@
     </mxGraphModel>
   </diagram>
   <diagram name="1. Ordering" id="ewW-mLXgtcHNg6mIJWQR">
-    <mxGraphModel dx="1114" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+    <mxGraphModel dx="391" dy="214" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
         <mxCell id="LZab7zWppRBkSROAJWzT-0" />
         <mxCell id="LZab7zWppRBkSROAJWzT-1" parent="LZab7zWppRBkSROAJWzT-0" />
-        <mxCell id="LZab7zWppRBkSROAJWzT-2" value="1. Ordering" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;" parent="LZab7zWppRBkSROAJWzT-1" vertex="1">
+        <mxCell id="LZab7zWppRBkSROAJWzT-2" value="1. Ordering" style="swimlane;html=1;childLayout=stackLayout;horizontal=1;startSize=20;horizontalStack=0;rounded=0;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;spacingLeft=90;" parent="LZab7zWppRBkSROAJWzT-1" vertex="1">
           <mxGeometry x="10" y="10" width="920" height="810" as="geometry" />
         </mxCell>
         <mxCell id="LZab7zWppRBkSROAJWzT-3" value="Customer" style="swimlane;html=1;startSize=30;horizontal=0;" parent="LZab7zWppRBkSROAJWzT-2" vertex="1">
@@ -622,6 +622,24 @@
               <mxPoint x="80" y="40" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Lmrc3IJ5h7coR-SC4k1e-4" value="" style="group" vertex="1" connectable="0" parent="LZab7zWppRBkSROAJWzT-3">
+          <mxGeometry x="779" y="10" width="130" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmrc3IJ5h7coR-SC4k1e-1" value="Legend" style="rounded=0;html=1;spacingLeft=-80;spacingTop=-75;" vertex="1" parent="Lmrc3IJ5h7coR-SC4k1e-4">
+          <mxGeometry width="130" height="88" as="geometry" />
+        </mxCell>
+        <mxCell id="bY-HIu8RKrg6m_6h09AE-1" value="Odoo Pasi" style="rounded=1;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;strokeColor=#9673a6;verticalAlign=middle;fontColor=default;fillColor=#e1d5e7;spacingLeft=82;" vertex="1" parent="Lmrc3IJ5h7coR-SC4k1e-4">
+          <mxGeometry x="7" y="15.75" width="34" height="14.25" as="geometry" />
+        </mxCell>
+        <mxCell id="bY-HIu8RKrg6m_6h09AE-2" value="Odoo Portal" style="rounded=1;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;fillColor=#d80073;fontColor=#000000;strokeColor=#A50040;spacingLeft=90;" vertex="1" parent="Lmrc3IJ5h7coR-SC4k1e-4">
+          <mxGeometry x="7" y="35.25" width="34" height="13.75" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmrc3IJ5h7coR-SC4k1e-0" value="Manual" style="rounded=1;html=1;shadow=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=8;align=center;spacingLeft=70;" vertex="1" parent="Lmrc3IJ5h7coR-SC4k1e-4">
+          <mxGeometry x="7" y="53.75" width="34" height="12.25" as="geometry" />
+        </mxCell>
+        <mxCell id="Lmrc3IJ5h7coR-SC4k1e-3" value="Proses Lain" style="ellipse;html=1;aspect=fixed;strokeColor=#B09500;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=8;fontColor=#000000;fillColor=#e3c800;spacingLeft=84;" vertex="1" parent="Lmrc3IJ5h7coR-SC4k1e-4">
+          <mxGeometry x="16.5" y="69" width="15" height="15" as="geometry" />
         </mxCell>
         <mxCell id="LZab7zWppRBkSROAJWzT-4" value="Affiliate" style="swimlane;html=1;startSize=30;horizontal=0;" parent="LZab7zWppRBkSROAJWzT-2" vertex="1">
           <mxGeometry y="140" width="920" height="140" as="geometry" />
